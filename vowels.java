@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-class JavaExample
+class vowels
 {
    public static void main(String[ ] arg)
    {
